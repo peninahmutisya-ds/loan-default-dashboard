@@ -1,0 +1,48 @@
+Age,Income,Education,EmploymentType,MaritalStatus,LoanAmount,InterestRate,LoanTerm,LoanPurpose,CreditScore,DTIRatio,MonthsEmployed,NumCreditLines,HasMortgage,HasDependents,HasCoSigner
+59,144886,Master's,Full-Time,Married,42194,12.81,60,Home Improvement,651,0.43,309,2,No,No,Yes
+41,174478,Master's,Full-Time,Married,7747,11.23,36,Home Improvement,554,0.59,131,5,No,Yes,Yes
+24,113897,Master's,Full-Time,Single,28483,7.07,60,Medical,705,0.3,50,8,No,No,No
+24,131211,Bachelor's,Unemployed,Single,37606,20.67,48,Business,689,0.26,208,2,No,No,No
+61,100774,Bachelor's,Full-Time,Married,7695,5.09,36,Medical,580,0.46,419,1,No,No,No
+48,247478,PhD,Full-Time,Married,68335,9.67,36,Business,726,0.16,462,3,No,No,No
+59,83419,Bachelor's,Self-Employed,Married,59268,13.65,60,Debt Consolidation,642,0.48,36,7,Yes,Yes,No
+26,108925,Bachelor's,Full-Time,Single,20707,11.06,12,Business,782,0.31,116,9,No,Yes,No
+57,163530,Master's,Full-Time,Married,73840,11.87,12,Education,551,0.22,386,3,Yes,Yes,Yes
+58,149045,Bachelor's,Full-Time,Married,30184,7.56,36,Debt Consolidation,758,0.4,403,10,No,Yes,No
+61,127504,Master's,Full-Time,Married,44384,8.55,24,Medical,762,0.43,346,9,No,Yes,No
+32,103016,Bachelor's,Part-Time,Married,56407,20.25,12,Home Improvement,574,0.57,104,4,No,Yes,No
+45,62869,Bachelor's,Full-Time,Married,43467,9.03,60,Home Improvement,634,0.46,33,11,Yes,Yes,No
+58,169377,PhD,Full-Time,Married,44790,13.37,60,Home Improvement,816,0.35,516,3,No,Yes,No
+50,153828,PhD,Part-Time,Divorced,5301,21.43,36,Home Improvement,615,0.25,161,3,Yes,No,No
+45,92368,Master's,Full-Time,Married,75031,5.86,36,Home Improvement,787,0.39,51,9,Yes,No,No
+42,75338,Bachelor's,Full-Time,Married,24508,9.62,48,Debt Consolidation,602,0.14,365,4,No,No,Yes
+36,202750,PhD,Full-Time,Married,30945,5.43,60,Business,628,0.19,1,2,Yes,Yes,Yes
+21,76964,Bachelor's,Full-Time,Single,72215,7.7,12,Debt Consolidation,719,0.12,241,4,No,Yes,No
+41,86646,Bachelor's,Full-Time,Divorced,73385,9.44,24,Education,646,0.35,257,8,No,Yes,Yes
+32,87350,Bachelor's,Full-Time,Single,20305,5.4,24,Medical,604,0.35,314,5,Yes,No,Yes
+45,108888,Master's,Full-Time,Divorced,22955,11.32,60,Home Improvement,682,0.48,217,3,Yes,No,No
+45,139459,Bachelor's,Part-Time,Divorced,41939,11.03,48,Home Improvement,643,0.32,99,9,No,Yes,No
+36,101174,Master's,Full-Time,Married,14348,17.53,60,Medical,645,0.58,9,10,No,No,No
+33,79065,Bachelor's,Full-Time,Single,31962,14.88,60,Business,644,0.57,217,4,Yes,No,No
+64,134482,Master's,Full-Time,Married,14435,14.72,48,Home Improvement,816,0.51,1,3,No,No,No
+45,126395,Master's,Full-Time,Divorced,39620,10.49,60,Medical,751,0.14,227,3,No,No,No
+34,128866,Bachelor's,Unemployed,Single,15975,5.98,48,Home Improvement,507,0.18,164,10,Yes,Yes,No
+57,175284,PhD,Unemployed,Divorced,40547,9.61,60,Medical,752,0.57,256,5,No,Yes,No
+25,68415,Bachelor's,Full-Time,Single,25309,19.1,12,Debt Consolidation,597,0.12,6,1,No,No,No
+43,103456,Master's,Part-Time,Married,43765,9.27,60,Debt Consolidation,759,0.21,488,2,Yes,Yes,No
+54,97131,Bachelor's,Self-Employed,Divorced,29285,18.46,12,Debt Consolidation,565,0.5,103,6,No,No,No
+38,143251,Bachelor's,Full-Time,Married,47318,11.74,24,Medical,580,0.57,388,10,No,Yes,No
+44,129836,Bachelor's,Full-Time,Married,50002,6.29,12,Medical,507,0.19,281,3,No,No,No
+39,113061,Master's,Full-Time,Married,21907,8.51,24,Business,577,0.27,411,9,Yes,Yes,No
+50,124291,Bachelor's,Full-Time,Married,55428,21.77,24,Home Improvement,577,0.33,365,10,Yes,Yes,No
+43,148869,Bachelor's,Full-Time,Married,78688,17.54,48,Education,538,0.26,231,6,Yes,Yes,No
+40,86734,Bachelor's,Full-Time,Married,17910,17.67,12,Home Improvement,582,0.29,101,6,No,No,No
+26,61605,Bachelor's,Full-Time,Single,61138,6.49,12,Medical,742,0.11,229,4,No,No,No
+31,103234,Master's,Self-Employed,Married,5846,14.1,24,Medical,672,0.48,326,10,Yes,Yes,No
+32,102533,Bachelor's,Full-Time,Single,52362,5.88,24,Education,760,0.13,172,2,Yes,No,No
+57,139767,Bachelor's,Full-Time,Married,47078,20.8,48,Home Improvement,636,0.2,547,1,No,No,No
+28,176740,Master's,Self-Employed,Married,28930,15.77,48,Business,736,0.39,296,8,No,No,No
+58,157728,Master's,Full-Time,Married,23381,6.13,36,Medical,697,0.57,391,3,Yes,Yes,No
+49,111356,Bachelor's,Self-Employed,Married,69484,18.24,12,Home Improvement,585,0.46,517,11,No,Yes,No
+56,80103,Bachelor's,Full-Time,Married,8756,17.24,36,Medical,791,0.46,283,5,No,No,No
+26,62443,Bachelor's,Full-Time,Single,22368,9.35,48,Medical,632,0.56,127,10,No,No,Yes
